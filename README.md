@@ -59,9 +59,9 @@ You can <a href="https://drive.google.com/file/d/1TxO3sEqxx11C6w8_WcUU8PeVAqvPKZ
 
 ## 🌐 My GitHub Stats
 
-[Pinklesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkleshparjapati&show_icons=true&theme=dark)
+[Pinklesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppinklesh&show_icons=true&theme=dark)
 
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkleshparjapati&layout=compact&theme=dark)
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ppinklesh&layout=compact&theme=dark)
 
 ---
 
